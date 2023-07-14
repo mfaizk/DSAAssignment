@@ -287,5 +287,13 @@ const k = 0;
 const minScore = minimumScore(nums, k);
 console.log(minScore);
 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Q.9  Build Periodic Table as shown in the below image
 
+Ans.9 https://github.com/mfaizk/Placement_Assignment_MOHD_FAIZ_KHAN/tree/
+master/css/question_8
 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Q.10  Build Periodic Table as shown in the below image
+Ans.10 https://github.com/mfaizk/Placement_Assignment_MOHD_FAIZ_KHAN/tree/
+master/css/question_10
